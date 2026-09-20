@@ -1,0 +1,65 @@
+spring:
+  application:
+    name: nutribot-backend
+
+  # ===== Subida de archivos (HU06: permite PDFs/Word grandes) =====
+  servlet:
+    multipart:
+      max-file-size: 25MB
+      max-request-size: 25MB
+
+  # ===== Base de datos MySQL (contenedor Docker, puerto 3307 del host) =====
+  datasource:
+    url: jdbc:mysql://localhost:3307/nutribot?useSSL=false&allowPublicKeyRetrieval=true
+    username: nutribot
+    password: nutribot123
+  jpa:
+    hibernate:
+      ddl-auto: update        # crea/actualiza tablas a partir de las entidades
+    show-sql: true
+    open-in-view: false       # buena practica: cierra la sesion JPA tras el servicio
+    properties:
+      hibernate:
+        format_sql: true
+
+  # ===== Spring AI =====
+  ai:
+    ollama:
+      base-url: http://localhost:11434   # Ollama nativo en Windows (GPU)
+      chat:
+        options:
+          model: mistral                 # LLM local
+          temperature: 0.3               # bajo = respuestas mas fieles (menos "inventos")
+          num-ctx: 4096                  # contexto moderado, ideal para 8 GB de VRAM
+      embedding:
+        options:
+          model: nomic-embed-text        # modelo de embeddings (768 dimensiones)
+          num-gpu: 0                     # embeddings en CPU (~15 ms): evita el crash del runner CUDA y libera VRAM para Mistral
+    vectorstore:
+      qdrant:
+        host: localhost
+        port: 6334                       # puerto gRPC de Qdrant
+        collection-name: nutribot_docs   # coleccion donde viven los vectores
+        initialize-schema: true          # Spring AI crea la coleccion automaticamente
+        use-tls: false
+
+server:
+  port: 8080
+  error:
+    include-message: always   # devuelve el mensaje de validacion (ej. formato no permitido) al frontend
+
+logging:
+  level:
+    org.springframework.ai: INFO
+
+# ===== Configuracion propia de NutriBot =====
+nutribot:
+  whatsapp:
+    advisor-number: "51932996032"   # numero real de Battilana (51 = Peru + 932996032); verificar si es el del asesor
+  rag:
+    similarity-threshold: 0.4   # umbral de similitud RAG; si ningun fragmento lo supera, deriva a un asesor (HU08)
+    # Documento con la lista de precios oficial. En consultas de precio la busqueda se restringe
+    # a el (metadato "source") para que los fragmentos del FAQ o de las fichas tecnicas no
+    # desplacen al bloque del producto (DEF-10). Debe coincidir EXACTAMENTE con el nombre del
+    # archivo tal como fue subido en la pestana Administrador.
+    price-document: lista-precios-battilana.txt

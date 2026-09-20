@@ -1,0 +1,39 @@
+LISTA DE PRECIOS Y DISPONIBILIDAD - BATTILANA NUTRICION SAC (DOCUMENTO DE PRUEBA)
+Vigencia: setiembre 2026. Precios en soles (S/), IGV incluido.
+Cada producto indica de forma independiente si su precio es FIJO o VARIABLE.
+
+PRODUCTO: Alimento balanceado para gallinas ponedoras
+Presentacion del alimento para gallinas ponedoras: saco de 40 kg
+Tipo de precio del alimento para gallinas ponedoras: FIJO
+Precio del alimento balanceado para gallinas ponedoras: S/ 95.00
+Disponibilidad del alimento balanceado para gallinas ponedoras: En stock
+
+PRODUCTO: Alimento de inicio para pollos broiler
+Presentacion del alimento de inicio para pollos broiler: saco de 40 kg
+Tipo de precio del alimento de inicio para pollos broiler: FIJO
+Precio del alimento de inicio para pollos broiler: S/ 102.00
+Disponibilidad del alimento de inicio para pollos broiler: En stock
+
+PRODUCTO: Sal mineral para bovinos
+Presentacion de la sal mineral para bovinos: bolsa de 25 kg
+Tipo de precio de la sal mineral para bovinos: FIJO
+Precio de la sal mineral para bovinos: S/ 45.00
+Disponibilidad de la sal mineral para bovinos: En stock
+
+PRODUCTO: Alimento para cuyes - crecimiento
+Presentacion del alimento para cuyes: saco de 30 kg
+Tipo de precio del alimento para cuyes: FIJO
+Precio del alimento para cuyes en crecimiento: S/ 72.00
+Disponibilidad del alimento para cuyes en crecimiento: En stock
+
+PRODUCTO: Concentrado para ganado vacuno lechero
+Presentacion del concentrado para ganado vacuno lechero: saco de 50 kg
+Tipo de precio del concentrado para ganado vacuno lechero: VARIABLE
+Precio del concentrado para ganado vacuno lechero: variable, sujeto a la cotizacion del maiz y la soya. Se debe consultar el precio vigente con un asesor.
+Disponibilidad del concentrado para ganado vacuno lechero: consultar con un asesor
+
+PRODUCTO: Alimento para lechones en destete
+Presentacion del alimento para lechones en destete: saco de 30 kg
+Tipo de precio del alimento para lechones en destete: VARIABLE
+Precio del alimento para lechones en destete: variable, con ajuste interdiario segun el costo de los insumos. Se debe consultar el precio vigente con un asesor.
+Disponibilidad del alimento para lechones en destete: consultar con un asesor

@@ -1,0 +1,315 @@
+BASE DE CONOCIMIENTO - PREGUNTAS FRECUENTES
+NUTRICION ANIMAL Y ATENCION AL CLIENTE (DOCUMENTO DE PRUEBA AMPLIADO)
+Rubro: agropecuario - avicultura, porcicultura, ganaderia vacuna y crianza de cuyes
+
+Nota: los valores tecnicos son rangos referenciales de uso comun en la industria y pueden
+variar segun la genetica, el clima y el manejo de cada granja.
+
+Alcance: este documento cubre UNICAMENTE nutricion animal y manejo tecnico. La informacion
+institucional y comercial de la empresa (atencion, contacto, ubicacion, presentaciones,
+pagos, entregas y cotizaciones) se encuentra en el documento de informacion general.
+
+==================================================
+SECCION 1: CONCEPTOS GENERALES DE NUTRICION ANIMAL
+==================================================
+
+¿Que es un alimento balanceado?
+Un alimento balanceado es una mezcla de ingredientes (granos, fuentes de proteina, vitaminas
+y minerales) formulada para cubrir todos los requerimientos nutricionales del animal segun
+su especie y etapa productiva. Su objetivo es que el animal reciba energia, proteina, fibra,
+vitaminas y minerales en las proporciones correctas en cada comida.
+
+¿Que es la proteina cruda y por que es importante?
+La proteina cruda mide el contenido total de proteina de un alimento y se expresa en
+porcentaje. La proteina aporta los aminoacidos necesarios para formar musculo, huevos,
+leche y crias. Un nivel insuficiente reduce el crecimiento y la produccion, mientras que
+un exceso encarece la dieta sin beneficio adicional.
+
+¿Que es la energia de un alimento?
+La energia es el combustible que el animal usa para mantenerse, moverse, crecer y producir.
+En aves y cerdos se expresa como energia metabolizable (kcal/kg). Dietas con baja energia
+hacen que el animal coma mas sin rendir, y el exceso de energia puede provocar
+engrasamiento.
+
+¿Que es la conversion alimenticia?
+La conversion alimenticia (CA) indica cuantos kilos de alimento necesita un animal para
+ganar un kilo de peso. Por ejemplo, una CA de 1.8 en pollos significa que el ave consumio
+1.8 kg de alimento por cada kilo que aumento. Mientras mas baja la conversion, mas
+eficiente es la produccion y menor el costo por kilo producido.
+
+¿Que diferencia hay entre alimento de inicio, crecimiento y acabado?
+Cada fase acompaña una etapa de vida del animal. El alimento de inicio tiene mas proteina
+y nutrientes digestibles porque el animal joven crece rapido y su sistema digestivo es
+inmaduro. El de crecimiento reduce gradualmente la proteina, y el de acabado o engorde
+prioriza la energia para la ganancia final de peso. Usar la fase correcta evita retrasos
+de crecimiento y gastos innecesarios.
+
+¿Que es un alimento medicado?
+Es un alimento balanceado que incluye un medicamento (por ejemplo, anticoccidiales en
+aves) para prevenir o controlar enfermedades especificas. Debe usarse solo en la especie
+y etapa indicadas, siguiendo las instrucciones de la etiqueta y respetando el periodo de
+retiro antes del beneficio del animal.
+
+¿Que son los aditivos del alimento?
+Son ingredientes que se agregan en pequeñas cantidades para mejorar la salud o el
+aprovechamiento del alimento: probioticos y prebioticos (salud intestinal), enzimas
+(mejor digestion de nutrientes), secuestrantes de micotoxinas (proteccion frente a
+hongos), antioxidantes y pigmentantes, entre otros.
+
+¿Puedo mezclar el alimento balanceado con maiz, polvillo u otros insumos de mi granja?
+No es recomendable diluir un alimento balanceado completo, porque se rompe el equilibrio
+de nutrientes de la formula y el animal puede quedar deficiente en proteina, vitaminas o
+minerales. Si desea aprovechar insumos propios, lo correcto es solicitar asesoria tecnica
+para formular una mezcla o usar un nucleo o concentrado diseñado para combinarse con esos
+insumos.
+
+¿Como hago el cambio de un alimento a otro?
+Todo cambio de alimento debe ser gradual, en un periodo de 5 a 7 dias, mezclando
+proporciones crecientes del alimento nuevo (por ejemplo 25%, 50%, 75% y 100%). Los
+cambios bruscos pueden causar diarreas, caida de consumo y perdida de produccion,
+especialmente en lechones y rumiantes.
+
+==================================================
+SECCION 2: AVICULTURA - POLLOS DE ENGORDE
+==================================================
+
+¿Que fases de alimentacion tiene un pollo de engorde?
+Un esquema tipico considera tres fases: inicio (0 a 21 dias) con 21% a 23% de proteina
+cruda, crecimiento (22 a 35 dias) con 19% a 21%, y acabado o finalizador (36 dias hasta
+la saca) con 17% a 19%. Las fases permiten acompañar el desarrollo del ave y optimizar
+el costo de la campaña.
+
+¿Cuanto alimento consume un pollo de engorde hasta la saca?
+Como referencia, un pollo de engorde consume entre 4.0 y 4.8 kg de alimento hasta los
+42 dias, alcanzando un peso vivo de 2.6 a 3.0 kg segun la genetica, el clima y el manejo
+del galpon.
+
+¿Que conversion alimenticia debo esperar en pollos?
+En condiciones adecuadas de manejo, una campaña de pollos de engorde logra conversiones
+de 1.5 a 1.8. Conversiones mayores a 2.0 suelen indicar problemas de calidad de alimento,
+agua, sanidad, temperatura o desperdicio en comederos.
+
+¿Cuanta agua necesitan los pollos?
+El consumo de agua de los pollos es aproximadamente 1.8 a 2 veces el consumo de alimento
+y aumenta con el calor. El agua debe estar siempre disponible, limpia y fresca; la falta
+de agua reduce de inmediato el consumo de alimento y el crecimiento.
+
+¿Como alimento a los pollos en epoca de calor?
+En climas calurosos se recomienda alimentar en las horas mas frescas (madrugada y
+atardecer), asegurar agua fresca abundante, mejorar la ventilacion y evitar manejos en
+horas de calor. En olas de calor el consumo baja, por lo que puede ser necesario usar
+dietas mas concentradas y electrolitos en el agua segun indicacion tecnica.
+
+¿Por que mis pollos no ganan peso?
+Las causas mas comunes son: alimento de fase incorrecta o mal almacenado, agua
+insuficiente o de mala calidad, alta densidad de aves, temperatura inadecuada,
+enfermedades (coccidiosis, problemas respiratorios) y desperdicio de alimento. Se
+recomienda revisar primero agua, temperatura y consumo real de alimento, y solicitar la
+visita de un asesor tecnico si el problema persiste.
+
+==================================================
+SECCION 3: AVICULTURA - GALLINAS PONEDORAS
+==================================================
+
+¿Cada cuanto debo alimentar a las gallinas ponedoras?
+Las gallinas ponedoras deben tener alimento disponible durante todo el dia. Un consumo
+tipico es de 110 a 120 gramos por ave por dia, ajustado segun la temperatura y la
+produccion de huevos. Se recomienda repartir el alimento en al menos dos entregas, con
+una buena proporcion por la tarde para la formacion de la cascara durante la noche.
+
+¿Que alimento se usa en la etapa de levante?
+Durante el levante (desde el primer dia hasta el inicio de postura) se usan alimentos de
+inicio (18% a 20% de proteina) y luego de crecimiento (15% a 17%), buscando que la polla
+llegue al peso corporal objetivo entre las 16 y 18 semanas. Un buen levante define la
+produccion futura de todo el lote.
+
+¿Cuando cambio al alimento de postura?
+Se recomienda usar una dieta de prepostura unas dos semanas antes del primer huevo y
+pasar al alimento de postura cuando el lote alcanza alrededor del 5% de produccion,
+siguiendo la guia de la linea genetica. Adelantarse o atrasarse demasiado afecta la
+calidad de la cascara y la salud de la ponedora.
+
+¿Por que es importante el calcio en ponedoras?
+La cascara del huevo esta formada principalmente por carbonato de calcio, y la gallina
+necesita entre 3.8% y 4.2% de calcio en la dieta de postura para producir huevos con
+cascara firme sin descalcificar sus huesos. Parte del calcio debe ofrecerse en particula
+gruesa (carbonato grueso o conchuela) para que este disponible durante la noche, que es
+cuando se forma la cascara.
+
+¿Por que los huevos salen con cascara debil o rota?
+Las causas mas frecuentes son calcio o vitamina D insuficientes, estres por calor, edad
+avanzada del lote, enfermedades y manejo brusco en la recoleccion. Si el problema es
+generalizado en el lote, conviene revisar la dieta y solicitar una evaluacion tecnica.
+
+¿La alimentacion afecta el color de la yema?
+Si. El color de la yema depende de los pigmentos (xantofilas) presentes en ingredientes
+como el maiz amarillo y de pigmentantes naturales añadidos (marigold, achiote, paprika).
+Un cambio en el color de la yema no significa necesariamente un problema nutricional.
+
+==================================================
+SECCION 4: PORCINOS
+==================================================
+
+¿Que nivel de proteina necesita un lechon en etapa de destete?
+Los lechones recien destetados requieren dietas con 20% a 22% de proteina cruda y alta
+digestibilidad para favorecer el crecimiento y reducir el estres del destete. Estas
+dietas suelen incluir ingredientes lacteos y altamente digestibles.
+
+¿Que fases de alimentacion tiene un cerdo?
+Un esquema referencial es: destete o pre-inicio (6 a 10 kg) con 20% a 22% de proteina,
+inicio (10 a 25 kg) con 18% a 19%, crecimiento (25 a 60 kg) con 16% a 17%, y engorde o
+acabado (60 a 100 kg) con 13% a 15%. Cada fase ajusta proteina y energia al ritmo de
+crecimiento del animal.
+
+¿Cuanto alimento consume un cerdo hasta el beneficio?
+Referencialmente, del destete a los 100 kg de peso vivo un cerdo consume entre 230 y
+280 kg de alimento, con conversiones globales de 2.4 a 2.8 segun la genetica, la sanidad
+y el manejo de la granja.
+
+¿Como alimento a una marrana gestante?
+La marrana gestante se alimenta de forma restringida, normalmente entre 2.0 y 2.5 kg
+diarios de un alimento de gestacion (12% a 14% de proteina), ajustando segun su condicion
+corporal. El exceso de alimento en gestacion engrasa a la marrana y reduce su consumo en
+lactancia; en la ultima etapa de la gestacion la racion puede incrementarse ligeramente
+segun pauta tecnica.
+
+¿Como alimento a una marrana en lactancia?
+En lactancia el objetivo es maximizar el consumo: se incrementa gradualmente hasta llegar
+a consumo a voluntad (5 a 8 kg diarios segun el tamaño de la camada) con un alimento de
+lactancia de 16% a 18% de proteina y agua abundante. Una lactancia bien alimentada
+produce mas leche, lechones mas pesados y un mejor retorno al celo.
+
+==================================================
+SECCION 5: GANADO VACUNO LECHERO
+==================================================
+
+¿Cuanto concentrado debo dar a una vaca lechera?
+Una regla practica: un forraje de buena calidad cubre el mantenimiento y los primeros
+7 a 10 litros de leche; a partir de alli se suministra aproximadamente 1 kg de
+concentrado por cada 2.5 a 3 litros adicionales de produccion. Por ejemplo, una vaca de
+20 litros con buen forraje puede requerir unos 4 a 5 kg de concentrado al dia, repartidos
+en dos o mas comidas. La racion exacta debe ajustarse con asesoria tecnica.
+
+¿El concentrado reemplaza al forraje?
+No. El vacuno es un rumiante y necesita la fibra del forraje (pasto, heno, ensilado,
+chala) para que el rumen funcione correctamente. El concentrado complementa al forraje,
+pero un exceso de concentrado con poca fibra puede causar acidosis ruminal, cojeras y
+caida de la grasa en la leche.
+
+¿Que son las sales mineralizadas y por que son importantes?
+Son mezclas de minerales (calcio, fosforo, magnesio, zinc, cobre, selenio, yodo, entre
+otros) que cubren las deficiencias de los forrajes. Deben ofrecerse de forma permanente
+en comederos techados o mezcladas con el concentrado. Su falta se asocia a baja
+fertilidad, menor produccion y problemas de huesos y pezuñas.
+
+¿Como alimento a una vaca seca?
+Durante el periodo seco (los 60 dias previos al parto) la vaca se alimenta principalmente
+con forraje y sales minerales, con poco o nada de concentrado al inicio. En las ultimas
+2 a 3 semanas (transicion) se introduce gradualmente el concentrado que recibira en
+lactancia, para preparar el rumen y prevenir problemas metabolicos al parto.
+
+¿Cuanta agua toma una vaca lechera?
+Entre 60 y 100 litros diarios o mas, segun la produccion y el clima; como referencia,
+una vaca necesita de 4 a 5 litros de agua por cada litro de leche producido. El agua debe
+ser limpia y estar siempre disponible: la restriccion de agua reduce la produccion de
+leche el mismo dia.
+
+==================================================
+SECCION 6: GANADO DE ENGORDE, OVINOS Y CAPRINOS
+==================================================
+
+¿Como adapto al ganado de engorde a dietas altas en concentrado?
+La adaptacion debe ser gradual, en 14 a 21 dias, aumentando el concentrado por etapas
+mientras se reduce el forraje. Pasar bruscamente a dietas altas en grano provoca acidosis
+ruminal, timpanismo y caida del consumo. En engorde intensivo bien manejado se esperan
+ganancias referenciales de 1.0 a 1.4 kg diarios.
+
+¿Que consideraciones tiene la alimentacion de ovinos y caprinos?
+Como rumiantes, su base debe ser el forraje, complementado con concentrado en las etapas
+de mayor demanda (ultimo tercio de gestacion, lactancia y engorde de corderos o cabritos)
+y con sales minerales permanentes. Importante: los ovinos son muy sensibles al exceso de
+cobre, por lo que no deben recibir alimentos ni sales formulados para otras especies.
+
+==================================================
+SECCION 7: CUYES
+==================================================
+
+¿Como se alimenta correctamente un cuy?
+El sistema mas usado es el mixto: forraje verde (alfalfa, chala de maiz, rye grass) que
+aporta fibra, agua y vitamina C, mas un concentrado que aporta la energia y proteina para
+un crecimiento rapido. El forraje debe orearse antes de ofrecerse (no darse caliente ni
+fermentado) y el concentrado se sirve en comederos limpios.
+
+¿Por que los cuyes necesitan vitamina C?
+El cuy, igual que el ser humano, no puede sintetizar su propia vitamina C, por lo que
+debe recibirla todos los dias en la dieta. El forraje verde fresco normalmente cubre el
+requerimiento; si la crianza usa poco o nada de forraje, se debe emplear un concentrado
+con vitamina C protegida o suplementarla en el agua de bebida segun indicacion tecnica.
+La deficiencia causa debilidad, encias inflamadas, cojeras e incluso mortalidad.
+
+¿Cuanto concentrado consume un cuy?
+Referencialmente, entre 20 y 40 gramos por animal por dia segun la edad y la etapa
+(recria, engorde o reproduccion), ademas del forraje. Un concentrado de crecimiento para
+cuyes suele tener alrededor de 17% a 18% de proteina cruda.
+
+¿Puedo criar cuyes solo con concentrado?
+Si, existe la crianza en seco con alimento integral, pero exige un concentrado completo
+con fibra adecuada y vitamina C estable, ademas de agua limpia permanente en bebederos.
+Si el concentrado no esta diseñado para este sistema, los cuyes presentaran deficiencias;
+consulte con el area tecnica antes de adoptar este sistema.
+
+==================================================
+SECCION 8: ALMACENAMIENTO Y CALIDAD DEL ALIMENTO
+==================================================
+
+¿Como se debe almacenar el alimento balanceado?
+El alimento debe guardarse en un ambiente fresco, seco, limpio y ventilado, sobre
+parihuelas separadas del piso y de las paredes, lejos de la humedad, de la luz solar
+directa y protegido de roedores y aves silvestres. Nunca debe almacenarse junto a
+combustibles, agroquimicos ni productos veterinarios que puedan contaminarlo.
+
+¿Cual es la vida util del alimento balanceado?
+Se recomienda consumir el alimento dentro de los 60 dias posteriores a su fabricacion, y
+en climas calurosos y humedos idealmente dentro de los 30 a 45 dias. Aplique la rotacion
+"primero en entrar, primero en salir" (FIFO) y verifique siempre la fecha de fabricacion
+impresa en el saco o la etiqueta.
+
+¿Como me doy cuenta de que un alimento esta en mal estado?
+Señales de alerta: olor rancio o a humedad y moho, grumos endurecidos, cambio de color,
+presencia visible de hongos, insectos (gorgojos, polillas) o evidencia de roedores, y
+rechazo o caida de consumo de los animales. Ante cualquiera de estas señales, suspenda el
+uso del lote y comuniquese con su proveedor indicando el numero de lote.
+
+¿Que son las micotoxinas y por que son peligrosas?
+Son toxinas producidas por hongos que contaminan granos y alimentos mal almacenados,
+muchas veces sin cambios visibles. Pueden causar caida de produccion y de consumo, daños
+al higado, problemas reproductivos y mayor susceptibilidad a enfermedades. La prevencion
+se basa en materias primas de calidad, buen almacenamiento y el uso de secuestrantes de
+micotoxinas en la formula.
+
+¿Que hago si encuentro gorgojos o polillas en el alimento?
+Separe los sacos afectados y no los mezcle con el resto, limpie a fondo el almacen
+(pisos, esquinas, parihuelas), revise las fechas de los lotes y aplique rotacion FIFO.
+Reporte el caso a su proveedor con el numero de lote para evaluar el producto.
+
+==================================================
+SECCION 9: SANIDAD Y NORMATIVA
+==================================================
+
+¿Los alimentos balanceados estan regulados en el Peru?
+Si. En el Peru, los alimentos para animales y las plantas que los fabrican deben estar
+registrados ante el SENASA (Servicio Nacional de Sanidad Agraria), que supervisa su
+calidad e inocuidad. Solicite siempre productos con registro y etiqueta que indique
+composicion, numero de lote y fecha de fabricacion.
+
+¿Que es el periodo de retiro de un alimento medicado?
+Es el numero de dias que el animal debe dejar de consumir un alimento medicado antes de
+su beneficio, o antes de destinar los huevos o la leche al consumo humano, para
+garantizar que no queden residuos del medicamento en el producto. El periodo de retiro
+figura en la etiqueta del alimento y es de cumplimiento obligatorio.
+
+¿El alimento balanceado puede transmitir enfermedades?
+Un alimento fabricado y almacenado correctamente es seguro. Los riesgos aparecen cuando
+el alimento se contamina por roedores, aves silvestres, humedad u hongos, o cuando se
+reutilizan sacos sucios. Las buenas practicas de almacen y bioseguridad (control de
+plagas, no ingresar sacos sucios a los galpones) minimizan el riesgo.
