@@ -1,0 +1,188 @@
+<div class="app">
+  <header class="header">
+    <h1>NutriBot</h1>
+    <p>Asistente virtual de Battilana Nutricion SAC</p>
+  </header>
+
+  <nav class="tabs">
+    <button [class.active]="tab === 'chat'" (click)="switchTab('chat')">
+      Chat
+    </button>
+    <button [class.active]="tab === 'admin'" (click)="switchTab('admin')">
+      Administrador
+    </button>
+    <button [class.active]="tab === 'bitacora'" (click)="switchTab('bitacora')">
+      Bitácora
+    </button>
+  </nav>
+
+  <!-- ===================== CHAT (HU01) ===================== -->
+  <section *ngIf="tab === 'chat'" class="chat">
+    <div class="messages">
+      <div *ngIf="messages.length === 0" class="empty">
+        Hazme una consulta sobre nuestros productos, fichas tecnicas, FAQs o
+        precios.
+      </div>
+
+      <ng-container *ngFor="let m of messages">
+        <div
+          class="bubble"
+          [class.user]="m.role === 'user'"
+          [class.bot]="m.role === 'bot'"
+        >
+          {{ m.text }}
+        </div>
+        <button
+          *ngIf="m.derivar"
+          type="button"
+          class="btn-advisor"
+          (click)="talkToAdvisor()"
+        >
+          Hablar con un asesor
+        </button>
+
+        <div *ngIf="m.pedirDatos" class="bitacora-form">
+          <p class="bitacora-label">
+            No hay asesores disponibles ahora. Dejanos tus datos y te contactaremos:
+          </p>
+          <input
+            [(ngModel)]="bitacoraNombre"
+            [ngModelOptions]="{ standalone: true }"
+            placeholder="Tu nombre"
+          />
+          <input
+            [(ngModel)]="bitacoraTelefono"
+            [ngModelOptions]="{ standalone: true }"
+            placeholder="Tu numero de contacto"
+          />
+          <button
+            type="button"
+            (click)="enviarBitacora()"
+            [disabled]="!bitacoraNombre.trim() || !bitacoraTelefono.trim()"
+          >
+            Enviar mis datos
+          </button>
+        </div>
+      </ng-container>
+
+      <div *ngIf="loading" class="bubble bot typing">
+        NutriBot esta escribiendo...
+      </div>
+    </div>
+
+    <form class="composer" (ngSubmit)="send()">
+      <input
+        [(ngModel)]="input"
+        name="input"
+        placeholder="Escribe tu consulta..."
+        autocomplete="off"
+        [disabled]="loading"
+      />
+      <button type="submit" [disabled]="loading || !input.trim()">
+        Enviar
+      </button>
+    </form>
+  </section>
+
+  <!-- ===================== ADMIN (HU06) ===================== -->
+  <section *ngIf="tab === 'admin'" class="admin">
+    <h2>Base de conocimiento</h2>
+    <p class="hint">
+      Sube catalogos, fichas tecnicas, FAQs o precios (PDF, Word, TXT). Se
+      indexan automaticamente en el vector store.
+    </p>
+
+    <div class="upload">
+      <input type="file" (change)="onFileSelected($event)" />
+      <button (click)="upload()" [disabled]="!selectedFile || uploading">
+        {{ uploading ? "Subiendo..." : "Subir e indexar" }}
+      </button>
+    </div>
+    <p *ngIf="uploadMsg" class="upload-msg">{{ uploadMsg }}</p>
+
+    <h3>Documentos cargados</h3>
+    <table *ngIf="documents.length > 0" class="docs">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Archivo</th>
+          <th>Fragmentos</th>
+          <th>Estado</th>
+          <th>Acciones</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let d of documents">
+          <td>{{ d.id }}</td>
+          <td>{{ d.fileName }}</td>
+          <td>{{ d.chunkCount }}</td>
+          <td>{{ d.status }}</td>
+          <td>
+            <button class="btn-del" (click)="deleteDoc(d.id)">Eliminar</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p *ngIf="documents.length === 0" class="empty">
+      Aun no hay documentos cargados.
+    </p>
+  </section>
+
+  <!-- ===================== BITACORA (HU10) ===================== -->
+  <section *ngIf="tab === 'bitacora'" class="admin">
+    <h2>Consultas pendientes</h2>
+    <p class="hint">
+      Consultas registradas cuando no habia un asesor disponible. Devuelve las
+      llamadas una a una al reincorporarte.
+    </p>
+
+    <div class="filtros">
+      <label>
+        Estado:
+        <select
+          [(ngModel)]="filtroEstado"
+          [ngModelOptions]="{ standalone: true }"
+        >
+          <option value="TODOS">Todos</option>
+          <option value="PENDIENTE">Pendiente</option>
+          <option value="ATENDIDA">Atendida</option>
+        </select>
+      </label>
+      <label>
+        Fecha:
+        <input
+          type="date"
+          [(ngModel)]="filtroFecha"
+          [ngModelOptions]="{ standalone: true }"
+        />
+      </label>
+      <button (click)="loadPendientes()">Actualizar</button>
+    </div>
+
+    <table *ngIf="pendientesFiltrados.length > 0" class="docs">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Cliente</th>
+          <th>Número</th>
+          <th>Consulta</th>
+          <th>Fecha / hora</th>
+          <th>Estado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let p of pendientesFiltrados">
+          <td>{{ p.id }}</td>
+          <td>{{ p.nombre }}</td>
+          <td>{{ p.telefono }}</td>
+          <td>{{ p.consulta }}</td>
+          <td>{{ p.createdAt | date: "dd/MM/yyyy HH:mm" }}</td>
+          <td>{{ p.estado }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <p *ngIf="pendientesFiltrados.length === 0" class="empty">
+      No hay consultas pendientes con esos filtros.
+    </p>
+  </section>
+</div>
